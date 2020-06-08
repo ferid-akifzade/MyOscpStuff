@@ -10,6 +10,7 @@
 4. Use nmap scripts
 5. Use Burp to analyze requests
 6. Use application specific techniques and tools ( For ex. wpscan, droopescan etc.)
+7. SSL certificate data
 ```
 
 ### Directory Fuzzing
